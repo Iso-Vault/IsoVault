@@ -4,4 +4,4 @@ Direct Download Index — OS Images
 
 # How Do I Access It?
 
-Head Over To isovault.netlify.app Or The Backup Site https://sites.google.com/view/isovaultapp
+Head Over To https://isovault.netlify.app/ Or The Backup Site https://sites.google.com/view/isovaultapp
